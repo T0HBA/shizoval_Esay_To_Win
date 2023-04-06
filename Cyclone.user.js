@@ -21,4 +21,5 @@ GM_xmlhttpRequest({
     onload: data => eval(data.responseText)
 })
 
+//You don't need any clan to Celebrate this hack 🥂🥂
 //Easy to Celebrate and to Win and to Destroy 🥂🥂
