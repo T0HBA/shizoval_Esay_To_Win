@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cyclone 🥂🥂
 // @version      1.0.0
-// @description  Free game cheat for Tanki Online.
+// @description  Free Tanki Online Cheat for Celebrate 🥂
 // @author       TOHBA
 // @match        https://*.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
