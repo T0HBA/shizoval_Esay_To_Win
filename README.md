@@ -1,5 +1,7 @@
 # Cyclone
 
+You don't need any clan to use this hack.
+
 Discord: **MR.HACKER_ATTA#5989** | Discord Server(https://discord.gg/WaRDA3bY)
 
 ![Cyclone](https://github.com/T0HBA/shizoval_Esay_To_Win/raw/main/Cyclone.png)
