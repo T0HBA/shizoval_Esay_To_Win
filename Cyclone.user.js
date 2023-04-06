@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Cyclone 🥂🥂
+// @name         Cyclone for celebrate 🥂🥂🥳
 // @version      1.0.0
 // @description  Free Tanki Online Cheat for Celebrate 🥂
 // @author       TOHBA
