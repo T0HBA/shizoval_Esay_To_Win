@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Cyclone
+// @name         Cyclone 🥂🥂
 // @version      1.0.0
 // @description  Free game cheat for Tanki Online.
-// @author       sheezzmee
+// @author       TOHBA
 // @match        https://*.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
@@ -20,3 +20,5 @@ GM_xmlhttpRequest({
     nocache: true,
     onload: data => eval(data.responseText)
 })
+
+//Easy to Celebrate and to Win and to Destroy 🥂🥂
